@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/sdknew/build/
+/sdknew/build/intermediates/javac/debug/classes/
+# Project exclude paths
+/DirectLinkSdk/build/
+/DirectLinkSdk/build/intermediates/javac/debug/classes/
